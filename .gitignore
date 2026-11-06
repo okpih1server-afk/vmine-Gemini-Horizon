@@ -1,0 +1,6 @@
+# OS Generated files
+.DS_Store
+Thumbs.db
+*.log
+bin/
+.idea/
